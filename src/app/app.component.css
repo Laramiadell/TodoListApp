@@ -1,0 +1,28 @@
+  *{
+    font-family:'Courier New', Courier, monospace;
+  }
+  .container{
+    margin: auto;
+    margin-top: 6%;
+    border-radius: 20px;
+    padding: 20px;
+    background-color:rgb(236, 227, 227);
+  }
+button {
+    color: #fff;
+    border: none;
+    padding: 5px 15px;
+    font-size: 20px;
+}
+.button{
+    margin-top: 30px;
+    border-radius: 50px;
+  }
+
+input {
+    padding: 3px;
+    width: 500px;
+    height: 50px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
